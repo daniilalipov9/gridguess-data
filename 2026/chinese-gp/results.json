@@ -1,0 +1,70 @@
+{
+  "season": 2026,
+  "updatedAt": "2026-03-15T18:33:32Z",
+  "raceId": "chinese-gp",
+  "status": "provisional",
+  "poleDriverId": "ANT",
+  "fastestLapDriverId": "ANT",
+  "classification": [
+    {
+      "position": 1,
+      "driverId": "ANT"
+    },
+    {
+      "position": 2,
+      "driverId": "RUS"
+    },
+    {
+      "position": 3,
+      "driverId": "HAM"
+    },
+    {
+      "position": 4,
+      "driverId": "LEC"
+    },
+    {
+      "position": 5,
+      "driverId": "BEA"
+    },
+    {
+      "position": 6,
+      "driverId": "GAS"
+    },
+    {
+      "position": 7,
+      "driverId": "LAW"
+    },
+    {
+      "position": 8,
+      "driverId": "HAD"
+    },
+    {
+      "position": 9,
+      "driverId": "SAI"
+    },
+    {
+      "position": 10,
+      "driverId": "COL"
+    },
+    {
+      "position": 11,
+      "driverId": "HUL"
+    },
+    {
+      "position": 12,
+      "driverId": "LIN"
+    },
+    {
+      "position": 13,
+      "driverId": "BOT"
+    },
+    {
+      "position": 14,
+      "driverId": "OCO"
+    },
+    {
+      "position": 15,
+      "driverId": "PER"
+    }
+  ]
+}
